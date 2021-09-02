@@ -1,0 +1,43 @@
+<class>
+	<red>
+		<color name="salmon"	value="fa8072" />
+		<color name="scarlet"	value="ff2400" />
+		<color name="burgundy"	value="8d021f" />
+		<color name="pink"		value="f699cd" />
+	</red>
+
+	<orange>
+		<color name="orange"	value="ff8c00" />
+		<color name="peach"		value="ffcc99" />
+		<color name="burnt"		value="cc5500" />
+		<color name="saffron"	value="ff9933" />
+	</orange>
+
+	<yellow>
+		<color name="lemon"		value="fff700" />
+		<color name="safety"	value="eed202" />
+		<color name="khaki"		value="f0e68c" />
+		<color name="lime"		value="e3ff00" />
+	</yellow>
+
+	<green>
+		<color name="forest"	value="0b6623" />
+		<color name="olive"		value="708238" />
+		<color name="sage"		value="9dc183" />
+		<color name="emerald"	value="50c878" />
+	</green>
+
+	<blue>
+		<color name="cobalt"	value="1338be" />
+		<color name="cerulean"	value="2af2be" />
+		<color name="arctic"	value="82eefd" />
+		<color name="turquoise" value="00ffef" />
+	</blue>
+
+	<violet>
+		<color name="violet" 	value="9400d3" />
+		<color name="orchid" 	value="da70d6" />
+		<color name="magenta" 	value="8b008b" />
+		<color name="indigo" 	value="4b0082" />
+	</violet>
+</class>
